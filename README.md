@@ -16,10 +16,11 @@ Additional documentation can be found at the [Marlin Home Page](//marlinfw.org/)
 
 
 ### Supported Platform
- Creality Ender 3V2, with these components:
-BLTouch Sensor
-TMC 2208 Stepper Drivers
-TJC Display
+
+Creality Ender 3V2, with these components:
+    -BLTouch Sensor
+    -TMC 2208 Stepper Drivers
+    -TJC Display
 
 
 ## Disclaimer
